@@ -1,0 +1,6 @@
+{
+  "commands": {
+    "start": "start",
+    "reg": "reg"
+  }
+}

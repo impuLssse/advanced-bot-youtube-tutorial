@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `users` MODIFY `userId` VARCHAR(191) NOT NULL,
+    MODIFY `chatId` VARCHAR(191) NOT NULL;
