@@ -2,6 +2,7 @@
 
 ### Env about
 
+```
 DATABASE_URL="mysql://user:password@localhost:3306/database"
 TOKEN = токен полученный с BotFather
 
@@ -12,3 +13,4 @@ DATABASE_HOST = localhost
 DATABASE_USER = user
 DATABASE_PASS = password
 DATABASE_PORT = 3306
+```
